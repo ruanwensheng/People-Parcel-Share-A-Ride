@@ -61,6 +61,9 @@ Các phương pháp xấp xỉ cho lời giải nhanh hơn nhưng có thể khô
 - **Integer Programming và Constraint Programming** luôn tìm ra kết quả tối ưu nhưng có thể mất nhiều thời gian khi kích thước bài toán tăng.
 - **Greedy Algorithm** nhanh nhưng dễ bị kẹt ở kết quả không tối ưu.
 - **Genetic Algorithm** đưa ra kết quả tốt nhất trong nhóm heuristic nhưng cần thêm tối ưu để cải thiện hiệu suất.
+![image](https://github.com/user-attachments/assets/ca5e75d0-af0f-4224-87d3-9697521d4e5c)
+![image](https://github.com/user-attachments/assets/7a228e4c-59f7-420a-9f91-7c28e2fdfcee)
+
 
 ### Tổng kết
 - Nếu ưu tiên kết quả tối ưu tuyệt đối, sử dụng **Constraint Programming hoặc Integer Programming**.
