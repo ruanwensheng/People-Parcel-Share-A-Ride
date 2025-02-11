@@ -73,10 +73,4 @@ Các phương pháp xấp xỉ cho lời giải nhanh hơn nhưng có thể khô
 ## Authors
 Nhóm 17:
 - **Nguyen Van Thang** - 20235559
-- **Pham Ngoc Trinh** - 20230092
-- **Nguyen Vu Thuy** - 20235562
-- **Tran Hoang Thai** - 20235621
-
-## Acknowledgments
-Cảm ơn các thầy cô đã hướng dẫn và hỗ trợ trong quá trình thực hiện dự án. Chúng tôi cũng cảm ơn các thành viên trong nhóm đã làm việc chăm chỉ để hoàn thành bài toán này.
 
