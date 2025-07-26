@@ -71,6 +71,5 @@ Các phương pháp xấp xỉ cho lời giải nhanh hơn nhưng có thể khô
 - **Genetic Algorithm** có tiềm năng tốt nếu được cải tiến thêm để đạt hiệu suất cao hơn.
 
 ## Authors
-Nhóm 17:
 - **Nguyen Van Thang** - 20235559
 
